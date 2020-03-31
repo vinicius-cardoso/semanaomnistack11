@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./logo.png" width="250px" /><br>
+<img src="./logo@3x.png" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b>
 </h4>
 <p align="center">
@@ -32,7 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :mortar_board: Quem ministrou?
 
-Ministrada pelo [Diego Fernandes](https://github.com/diego3g)
+Ministrada por [Diego Fernandes](https://github.com/diego3g)
 
 ### &copy; Créditos pelo modelo do README.md
 

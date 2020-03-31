@@ -12,7 +12,7 @@
 <br>
 
 ### :rocket: Tecnologias usadas
-Projeto foi desenvolvido com as seguintes tecnologias:
+Projeto desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)

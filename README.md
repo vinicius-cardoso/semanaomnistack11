@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="./img/logo3x.png" width="250px" /><br>
-  <br>🚀 Semana OmniStack 11 - RocketSeat<br>
+  <img src="./img/logo@3x.png" width="250px" /><br>
 </h1>
+
+<h4 align="center">
+  <p>🚀 Semana OmniStack 11 - RocketSeat</p>
+<h4>
 
 <p align="center">
   <a href="https://rocketseat.com.br">

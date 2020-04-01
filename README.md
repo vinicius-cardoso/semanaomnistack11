@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="./logo@3x.png" width="250px" /><br>
+  <img src="./logo@3x.png" width="280px" /><br>
 </h1>
 
 <h4 align="center">
-  <p>🚀 Semana OmniStack 11 - RocketSeat</p>
+  <p>🚀 Semana OmniStack 11</p>
 <h4>
 
 <p align="center">
@@ -16,10 +16,10 @@
 <br>
 
 <p align="center">
-  <a href="#-Project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licença">Licença</a>
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
 ## Projeto
